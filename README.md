@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Sojibul Islam Rana</h1>
+<h1 align="center"I'm Md. Sojibul Islam Rana</h1>
 <h3 align="center">Software Developer | Competitive Programmer</h3>
 
 - 🔭 I’m currently working on **Tutora**
