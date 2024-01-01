@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Tutora**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, ML**
 
-- 💬 Ask me about **C / C++ / HTML / CSS / JAVA / Flutter / React**
+- 💬 Ask me about **C / C++ / HTML / CSS / JAVA / Flutter / React / ML**
 
 - 📫 How to reach me **si.radiumsodium@gamil.com**
 
