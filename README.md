@@ -22,7 +22,7 @@ I'm an indie developer who use flutter to make cross platform apps from the grou
 
 ### Technologies
 
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=MicrosoftAzure&logoColor=F90) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow) ![React](https://img.shields.io/badge/-React-000?&logo=React)![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=skyblue) ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=cyan)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=MicrosoftAzure&logoColor=F90) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=skyblue) ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=cyan)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
