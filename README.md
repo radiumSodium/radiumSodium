@@ -1,19 +1,55 @@
-<h1 align="center">I'm Md. Sojibul Islam Rana</h1>
-<h3 align="center">Software Developer | Competitive Programmer</h3>
+# Md. Sojibul Islam Rana
 
-- 🔭 I’m currently working on **Tutora**
+**`Digital Craftsman (Apps developer/ ML & AI / DevOps)`**
 
-- 🌱 I’m currently learning **Flutter, ML**
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=radiumSodium&style=flat" alt="radiumsodium" /> </p>
 
-- 💬 Ask me about **C / C++ / HTML / CSS / JAVA / Flutter / React / ML**
+I'm an indie developer who use flutter to make cross platform apps from the ground up. I also do machine learning and Artificial intelligence as I have a keen interest on these sectors. Along with that I make videos on various topics mostly on ML & AI
 
-- 📫 How to reach me **si.radiumsodium@gamil.com**
+### ⚙️ &nbsp;GitHub Analytics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sir4n4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sir4n4" height="30" width="40" /></a>
-<a href="https://instagram.com/sir4n4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir4n4" height="30" width="40" /></a>
+<p align="center">
+<a href="https://github.com/radiumSodium">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=radiumSodium&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=radiumSodium&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<hr>
+
+### Languages
+
+![C](https://img.shields.io/badge/-C-4e4e4c?&logo=C) ![C++](https://img.shields.io/badge/-C++-skyblue?&logo=c%2b%2b&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-ffd343?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?&logo=JavaScript) ![R](https://img.shields.io/badge/-R-blue?&logo=R) ![SQL](https://img.shields.io/badge/-SQL-1a4e4c?&logo=MySQL) ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) ![Dart](https://img.shields.io/badge/-Dart-blue?&logo=Dart)
+
+### Technologies
+
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=MicrosoftAzure&logoColor=F90) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow) ![React](https://img.shields.io/badge/-React-000?&logo=React)![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=skyblue) ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=cyan)
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/radiumsodium/"><img src="https://img.shields.io/badge/-Md.%20Sojibul%20Islam%20Rana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:si.radiumsodium@gmail.com"><img src="https://img.shields.io/badge/-si.radiumsodium@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/sir4n4/"><img src="https://img.shields.io/badge/-@Md. Sojibul Islam Rana-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/_sir4n4"><img src="https://img.shields.io/badge/-@Md.Sojibul Islam Rana-212121?style=flat&logo=X&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw"><img src="https://img.shields.io/badge/-@radiumsodium-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+## 📺 Latest YouTube Videos
+
+<table>
+  <tbody>
+<!-- YOUTUBE:START --><tr><td><a href="https://youtu.be/pOrpung-s4E"><img width="140px" src="https://i.ytimg.com/vi/pOrpung-s4E/mqdefault.jpg"></a></td>
+<td><a href="https://youtu.be/pOrpung-s4E">Anatomy of Matplotlib | Sojibul Islam Rana | Dev Change Makers</a><br/>Jan 19, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=kViGwIcuwI0"><img width="140px" src="https://i.ytimg.com/vi/kViGwIcuwI0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kViGwIcuwI0">Build your own ChatGPT using hugging face api.</a><br/>Mar 21, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=t958xTS_RSU"><img width="140px" src="https://i.ytimg.com/vi/t958xTS_RSU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t958xTS_RSU">Build your own AI image generator like stable diffusion</a><br/>Dec 9, 2023</td></tr>
+
+<!-- YOUTUBE:END -->
+</tbody>
+  </table>
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw?sub_confirmation=1)
+
