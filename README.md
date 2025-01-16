@@ -31,7 +31,7 @@ I'm an indie developer who use flutter to make cross platform apps from the grou
 <a href="mailto:si.radiumsodium@gmail.com"><img src="https://img.shields.io/badge/-si.radiumsodium@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/sir4n4/"><img src="https://img.shields.io/badge/-Md. Sojibul Islam Rana-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/_sir4n4"><img src="https://img.shields.io/badge/-@Md. Sojibul Islam Rana-212121?style=flat&logo=X&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw"><img src="https://img.shields.io/badge/-@radiumsodium-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCGV_UOesD1noUN7q6OS6RMw"><img src="https://img.shields.io/badge/-@Sojibul Islam Rana-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
 </p>
 
 ---
